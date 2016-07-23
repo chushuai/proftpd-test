@@ -1,0 +1,7 @@
+PORT   STATE SERVICE
+21/tcp open  ftp
+| ftp-proftpd-backdoor:
+|   This installation has been backdoored.
+|   Command: id
+|   Results: uid=0(root) gid=0(wheel) groups=0(wheel)
+|_
